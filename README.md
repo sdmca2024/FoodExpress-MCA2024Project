@@ -1,4 +1,14 @@
 
+# Food Express - A Food Delivery App in MERN Stack
+
+MCA Final year 2024 Project work
+
+
+## Author
+
+- [@SabiyaDurrani](https://github.com/sdmca2024)
+
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
